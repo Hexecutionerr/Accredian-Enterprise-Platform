@@ -1,9 +1,23 @@
 # Accredian Enterprise Platform
 
-> 🚧 **Status: Ongoing / Work in Progress** – *This project is currently under active development. Features and UI are being continuously refined.*
+> 🚀 **Status: Live & Production Ready** – *The platform is successfully deployed on Vercel.*
+
 ![Accredian UI Demonstration](./frontend/public/demo.webp)
 
-**Accredian Enterprise Platform** is a cutting-edge corporate training and development landing page built to empower modern workforces with advanced learning solutions in Data Science, AI, and Product Management. The platform is designed to convert leads, explain our unique 3-step value proposition, and establish corporate credibility.
+**Accredian Enterprise Platform** is a cutting-edge corporate training and development landing page built to empower modern workforces with advanced learning solutions in Data Science, AI, and Product Management. 
+
+---
+
+### 🌐 Live Demo
+Check out the live application here:  
+👉 **[https://frontend-gamma-vert-94.vercel.app/](https://frontend-gamma-vert-94.vercel.app/)**
+
+---
+
+### ⭐ Support the Project
+If you find this project helpful or like the design, please consider giving it a **Star** ⭐️ on GitHub! It helps me stay motivated to build more awesome stuff.
+
+---
 
 ## 🚀 Key Features
 
@@ -28,8 +42,8 @@ To run this project locally, ensure you have Node.js (v20+) installed.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd "Accredian Enterprise/frontend"
+   git clone https://github.com/Hexecutionerr/Accredian-Enterprise-Platform.git
+   cd "Accredian-Enterprise-Platform/frontend"
    ```
 
 2. **Install dependencies:**
@@ -38,12 +52,14 @@ To run this project locally, ensure you have Node.js (v20+) installed.
    ```
 
 3. **Start the development server:**
-   *Note: Next.js + Turbopack can be memory intensive. We recommend running with increased Node memory if you encounter OOM issues.*
    ```powershell
    $env:NODE_ENV="development"; $env:NODE_OPTIONS="--max-old-space-size=4096"; npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to view the application.
+## 📦 Deployment Note
+This project is structured with a `frontend` subdirectory. When deploying to **Vercel**, ensure you set:
+- **Root Directory:** `frontend`
+- **Framework Preset:** `Next.js`
 
 ## 🌍 Corporate Office
 
@@ -53,7 +69,7 @@ To run this project locally, ensure you have Node.js (v20+) installed.
 
 ---
 
-## 👨💻 Author
+## 👨‍💻 Author
 
 **Hasnain Khan**  
 *Lead Developer & Architect*
