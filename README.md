@@ -1,10 +1,10 @@
 # Accredian Enterprise Platform
 
-> 🚀 **Status: Live & Production Ready** – *The platform is successfully deployed on Vercel.*
+> 🚀 **Status: Live & Production Ready** – *Developed as part of a **Full Stack Developer Intern** task. This project is ongoing, with continuous UI/UX improvements and feature additions planned.*
 
 ![Accredian UI Demonstration](./frontend/public/demo.webp)
 
-**Accredian Enterprise Platform** is a cutting-edge corporate training and development landing page built to empower modern workforces with advanced learning solutions in Data Science, AI, and Product Management. 
+**Accredian Enterprise Platform** is a high-fidelity corporate training and development landing page. This project was built to demonstrate advanced frontend architecture, responsive design, and production-level deployment standards for a **Full Stack Internship** evaluation.
 
 ---
 
@@ -66,6 +66,14 @@ This project is structured with a `frontend` subdirectory. When deploying to **V
 **Accredian**  
 **Email:** [enterprise@accredian.com](mailto:enterprise@accredian.com)  
 **Location:** Gurugram, India
+
+---
+
+## 🛠️ Roadmap & Future Updates
+- [ ] **Advanced Lead Capture:** Integration with CRM tools (HubSpot/Salesforce).
+- [ ] **Multi-language Support:** i18n implementation for global enterprise clients.
+- [ ] **Interactive Course Preview:** A sleek dashboard to preview corporate training modules.
+- [ ] **Enhanced Animations:** Incorporating Framer Motion for more complex UI transitions.
 
 ---
 
